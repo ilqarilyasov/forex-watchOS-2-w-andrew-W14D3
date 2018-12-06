@@ -15,7 +15,7 @@ class CurrenciesTableInterfaceController: WKInterfaceController {
     // MARK: - Properties
     
     @IBOutlet weak var currencyTable: WKInterfaceTable!
-    private let symbols = ["AZN", "CAD","BRL", "HUF", "DKK", "JPY", "ILS", "TRY",
+    private let symbols = ["AZE", "CAD","BRL", "HUF", "DKK", "JPY", "ILS", "TRY",
                            "RON", "GBP", "PHP", "HRK", "NOK", "USD", "MXN", "AUD",
                            "IDR", "KRW", "HKD", "ZAR", "ISK", "CZK", "THB", "MYR",
                            "NZD", "PLN", "SEK", "RUB", "CNY", "SGD", "CHF", "INR"].sorted()

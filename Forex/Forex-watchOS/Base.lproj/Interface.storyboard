@@ -44,7 +44,7 @@
                     <items>
                         <group width="1" height="1" alignment="center" verticalAlignment="center" layout="vertical" spacing="10" id="kp2-lj-sOz">
                             <items>
-                                <label width="1" alignment="left" text="Label" textAlignment="center" id="cB6-3Q-2Cd"/>
+                                <label width="1" alignment="left" text="loading ..." textAlignment="center" id="cB6-3Q-2Cd"/>
                                 <imageView width="1" height="1" alignment="center" verticalAlignment="center" contentMode="scaleAspectFit" id="pY3-fX-E6A"/>
                             </items>
                             <edgeInsets key="margins" left="0.0" right="0.0" top="10" bottom="0.0"/>
